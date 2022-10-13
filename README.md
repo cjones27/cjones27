@@ -2,6 +2,6 @@ Hi there :wave:, I'm Cris. I like software development, photography and having f
 
 Knowledge in:
 
-- JS, Python, RoR,
-- React, Next, Vue, Nuxt, React Native
+- JS, Python, Ruby,
+- React, Next, Vue, Nuxt, React Native, RoR
 - Figma, Postman, Docker, AWS
